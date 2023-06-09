@@ -75,13 +75,34 @@ border: 1px solid #d8cdcd;
 }
 .har{
     margin-top: 40px;
-
     margin-left: 0%;
-    border: 2px slid black;
 }
 
 .bali{
     margin-top: 40px;
-    /* position: absolute; */
+    position: absolute;
     margin-left: 50%;
+}
+.text-image-rectangle61{
+    position: absolute;
+    margin-top: 40px;
+}
+.text-image-onrectangle61{
+    position: absolute;
+    margin-top: 40px;
+    text-align: center;
+    margin-top: 10%;
+}
+.pankh{
+    position: absolute;
+    margin-top: 17%;
+    margin-left: 28%;
+}
+.above_image{
+    position: absolute;
+
+}
+.above_footer{
+    position: absolute;
+
 }
